@@ -1,0 +1,15 @@
+c:\users\gokha\documents\visual studio 2015\Projects\ReadDataESP32\ReadDataESP32\bin\Debug\ReadDataESP32.exe.config
+c:\users\gokha\documents\visual studio 2015\Projects\ReadDataESP32\ReadDataESP32\bin\Debug\ReadDataESP32.exe
+c:\users\gokha\documents\visual studio 2015\Projects\ReadDataESP32\ReadDataESP32\bin\Debug\ReadDataESP32.pdb
+c:\users\gokha\documents\visual studio 2015\Projects\ReadDataESP32\ReadDataESP32\obj\Debug\ReadDataESP32.csprojResolveAssemblyReference.cache
+c:\users\gokha\documents\visual studio 2015\Projects\ReadDataESP32\ReadDataESP32\obj\Debug\ReadDataESP32.Form1.resources
+c:\users\gokha\documents\visual studio 2015\Projects\ReadDataESP32\ReadDataESP32\obj\Debug\ReadDataESP32.Properties.Resources.resources
+c:\users\gokha\documents\visual studio 2015\Projects\ReadDataESP32\ReadDataESP32\obj\Debug\ReadDataESP32.csproj.GenerateResource.Cache
+c:\users\gokha\documents\visual studio 2015\Projects\ReadDataESP32\ReadDataESP32\obj\Debug\ReadDataESP32.exe
+c:\users\gokha\documents\visual studio 2015\Projects\ReadDataESP32\ReadDataESP32\obj\Debug\ReadDataESP32.pdb
+C:\Users\gokha\documents\visual studio 2015\Projects\ReadDataESP32\ReadDataESP32\bin\Debug\FireSharp.dll
+C:\Users\gokha\documents\visual studio 2015\Projects\ReadDataESP32\ReadDataESP32\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\gokha\documents\visual studio 2015\Projects\ReadDataESP32\ReadDataESP32\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gokha\documents\visual studio 2015\Projects\ReadDataESP32\ReadDataESP32\bin\Debug\RestSharp.dll
+C:\Users\gokha\documents\visual studio 2015\Projects\ReadDataESP32\ReadDataESP32\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gokha\documents\visual studio 2015\Projects\ReadDataESP32\ReadDataESP32\bin\Debug\RestSharp.xml
