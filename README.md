@@ -1,5 +1,5 @@
 # ReadDataFromESP32
-Kocaeli Üniversitesi Bitirme Projesi olan "BLE ile İç Mekan Konum Tespiti" isimli tezimizin bir modülü olan, ESP32' den gelen RSSI değerlerinin okunması ve bu değerlerin Firebase bulut platformuna gönderilmesini sağlamak için hazırlanan arayüzdür. Bu arayüzde; ESP32' den gelen RSSI değerleri okunur, Firebase' e gönderilir. Daha sonrasında Java programlama dilini kullanarak geliştirilecek olan arayüzde, Firebase' e gönderilmiş olan bu veriler çekilerek tahmini konumu gösteren bir simülasyon yapılması planlanmıştır.
+Kocaeli Üniversitesi Bitirme Projesi olan "BLE ile İç Mekan Konum Tespiti" isimli tezimizin bir modülü olan, ekip arkadaşlarım Hami Kumbasar ve Esin Çağla Kıral ile birlikte geliştirdiğimiz bu projede; ESP32' den gelen RSSI değerlerinin okunması ve bu değerlerin Firebase bulut platformuna gönderilmesini sağlamak için hazırlanan arayüzdür. Bu arayüzde; ESP32' den gelen RSSI değerleri okunur, Firebase' e gönderilir. Daha sonrasında Java programlama dilini kullanarak geliştirilecek olan arayüzde, Firebase' e gönderilmiş olan bu veriler çekilerek tahmini konumu gösteren bir simülasyon yapılması planlanmıştır.
 
 Projenin arayüzü aşağıdaki gibidir:
 
@@ -17,6 +17,6 @@ Projenin çalışma prensibi şu şekildedir:
 
 Hami' nin Java programlama dili ile oluşturduğu arayüz aşağıdaki gibidir:
 
-<img src="https://i.hizliresim.com/64n7f00.png></img>
+<img src="https://i.hizliresim.com/64n7f00.png"></img>
 
 <img src="https://i.hizliresim.com/r2u8irb.png"></img>
